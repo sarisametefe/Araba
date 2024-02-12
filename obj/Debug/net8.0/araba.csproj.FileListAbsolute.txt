@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Araba\bin\Debug\net8.0\araba.exe
+C:\Users\Admin\Desktop\Araba\bin\Debug\net8.0\araba.deps.json
+C:\Users\Admin\Desktop\Araba\bin\Debug\net8.0\araba.runtimeconfig.json
+C:\Users\Admin\Desktop\Araba\bin\Debug\net8.0\araba.dll
+C:\Users\Admin\Desktop\Araba\bin\Debug\net8.0\araba.pdb
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.dll
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\refint\araba.dll
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.pdb
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\araba.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Araba\obj\Debug\net8.0\ref\araba.dll
